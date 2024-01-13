@@ -1,8 +1,36 @@
-This is my first project using Power BI.
-The data is coming from: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa19xeXV2R25qekotTHBmV0lvbGFCSnhpZENfZ3xBQ3Jtc0tuclZPZ0lZSTAzRHl1TnJZeDZCWlNMX1VsZGNkQ2U4OVdvTzBFTThTTFRodHQ4YUhDbF9Yd2FDTHRpZVNYamVqZmpnTmN2OURwOVlaOVBMUjk0c0E2VU51Vm9mS0szbW9YUFNGLV8zZzYtMFZoTUhGMA&q=https%3A%2F%2Fgithub.com%2FAlexTheAnalyst%2FPower-BI%2Fblob%2Fmain%2FPower%2520BI%2520-%2520Final%2520Project.xlsx&v=pixlHHe_lNQ
-My goal here was to use some basic functionalities of Power Query and Power Bi.
-I wanted to answer the following questions:
-- Data related jobs are still mainly for man?
-- How is the average satisfaction for these kind of jobs in term of salaries
-- What is the favorite programming languages used in each role?
-- What is the highest level of education for role?
+# Data Analysis with Power BI: Exploring Job Trends, Satisfaction, and Preferences in the Tech Industry
+
+## Introduction
+
+This project is my first venture into using Power BI, a powerful data visualization and business intelligence tool. I've sourced data from a public dataset provided by [AlexTheAnalyst on GitHub](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx), focusing on job trends and preferences within the tech industry. The goal is to leverage Power Query and Power BI functionalities to uncover insights into job satisfaction, gender distribution in data-related jobs, programming language preferences, and educational backgrounds in various tech roles.
+
+## Project Structure
+
+### 1. Data Source and Preparation
+- **Source**: [AlexTheAnalyst's GitHub Repository](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx)
+- **Preparation**: Basically i cleaned the data fastly keeping in mind that this was mainly to start using the visualization tools.
+### 2. Analysis Overview
+Addressing the following questions:
+- Are data-related jobs predominantly held by men?
+- What is the average job satisfaction in terms of salary?
+- What are the preferred programming languages for each role?
+- What is the highest level of education attained in each role?
+
+### 3. Visualizations and Dashboards
+- Screenshots or links to Power BI dashboards.
+- Descriptions for each visualization.
+
+### 4. Insights and Conclusions
+- Key findings and trends.
+- Discussion of any unexpected results.
+
+### 5. Reflections
+- Personal experience with Power BI.
+- Challenges faced and solutions found.
+
+### 6. Future Work
+- Suggestions for further analysis or improvements.
+
+## Conclusion
+
+Thank you for exploring my Power BI project. Feedback and contributions are welcome!
