@@ -1,0 +1,8 @@
+This is my first project using Power BI.
+The data is coming from: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa19xeXV2R25qekotTHBmV0lvbGFCSnhpZENfZ3xBQ3Jtc0tuclZPZ0lZSTAzRHl1TnJZeDZCWlNMX1VsZGNkQ2U4OVdvTzBFTThTTFRodHQ4YUhDbF9Yd2FDTHRpZVNYamVqZmpnTmN2OURwOVlaOVBMUjk0c0E2VU51Vm9mS0szbW9YUFNGLV8zZzYtMFZoTUhGMA&q=https%3A%2F%2Fgithub.com%2FAlexTheAnalyst%2FPower-BI%2Fblob%2Fmain%2FPower%2520BI%2520-%2520Final%2520Project.xlsx&v=pixlHHe_lNQ
+My goal here was to use some basic functionalities of Power Query and Power Bi.
+I wanted to answer the following questions:
+- Data related jobs are still mainly for man?
+- How is the average satisfaction for these kind of jobs in term of salaries
+- What is the favorite programming languages used in each role?
+- What is the highest level of education for role?
