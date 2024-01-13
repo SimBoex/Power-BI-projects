@@ -8,7 +8,7 @@ This project is my first venture into using Power BI, a powerful data visualizat
 
 ### 1. Data Source and Preparation
 - **Source**: [AlexTheAnalyst's GitHub Repository](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx)
-- **Preparation**: Basically i cleaned the data fastly keeping in mind that this was mainly to start using the visualization tools.
+- **Preparation**: Basically i cleaned the data  using the Query BI.
 ### 2. Analysis Overview
 Addressing the following questions:
 - Are data-related jobs predominantly held by men?
