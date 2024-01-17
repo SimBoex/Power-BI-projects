@@ -17,4 +17,4 @@ Addressing the following questions:
 - What is the highest level of education attained in each role?
 
 
-![first_report]()
+![first_report](https://github.com/SimBoex/Power-BI-projects/blob/f80469ab0c72ae67b1d1bee03b6e1329b1c42d61/Project%231/First-Power-Bi-dashboard.png)
