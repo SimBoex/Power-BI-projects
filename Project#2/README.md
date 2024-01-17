@@ -18,4 +18,5 @@ Addressing the following questions:
 - is possible to inspect the details of a single row element?
 
 ### 3. Visualization tools
-Differently from the first project, here i learnt how to use visualization fiters to give a dynamic view of different elements and allowing the users to inspect in more details the data.
+Differently from the first project,
+here i learnt how to use visualization fiters to give a dynamic view of different elements.
