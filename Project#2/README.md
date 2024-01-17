@@ -19,4 +19,4 @@ Addressing the following questions:
 
 ### 3. Visualization tools
 Differently from the first project,
-here i learnt how to use visualization fiters to give a dynamic view of different elements.
+here I learnt how to use visualization fiters to give a dynamic view of different elements.
