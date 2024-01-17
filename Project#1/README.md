@@ -15,3 +15,6 @@ Addressing the following questions:
 - What is the average job satisfaction in terms of salary?
 - What are the preferred programming languages for each role?
 - What is the highest level of education attained in each role?
+
+
+![first_report]()
