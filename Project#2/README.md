@@ -15,7 +15,7 @@ Addressing the following questions:
 - How the sales performance vary across time?
 - Which are the most sold categories?
 - Which are the top 10 customers in a given time window?
-- Give me a tool to inspect in detail the data
+- is possible to inspect the details of a single row element?
 
 ### 3. Visualization tools
 Differently from the first project, here i learnt how to use visualization fiters to give a dynamic view of different elements and allowing the users to inspect in more details the data.
