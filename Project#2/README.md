@@ -26,4 +26,4 @@ here I learnt how to use visualization fiters to give a dynamic view of differen
 
 Then after ctrl  + clicking on the button, i get:
 
-![second_page](https://github.com/SimBoex/Power-BI-projects/blob/77bc045ca3ab931e106de31120c9dddfd394cabc/Project%232/firstPageSecondReport.png)
+![second_page](https://github.com/SimBoex/Power-BI-projects/blob/77bc045ca3ab931e106de31120c9dddfd394cabc/Project%232/SecondPageSecondReport.png)
